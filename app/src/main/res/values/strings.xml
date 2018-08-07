@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewRaileProject</string>
+
+    <string name="smallText">We shall verify your mobile number as a one time \n <center> process, it takes a few minutes.</center></string>
+    <string name="recyclerText1"><b>Phone Number:- +91- 9999988888  </b></string>
+    <string name="recyclerText2"><b>Location:- Sector 55Near Ab Colony Chandigarh(4Kms)</b></string>
+    <string name="recyclerText3">Requirement of 2 electricians</string>
+
+</resources>
